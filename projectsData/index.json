@@ -1,0 +1,22 @@
+{
+	"projects": {
+		"Web": [
+			{
+				"name": "Google CodeIn",
+				"id": "codein",
+				"tags": ["education", "blog", "chat bots", "node.js", "javascript"],
+				"date": 1447095600000,
+				"descriptionFile": "codein.md"
+			},
+			{
+				"name": "Bots Portfolio",
+				"id": "botsp",
+				"tags": ["chat bots", "bots", "javascript", "node.js"],
+				"date": 1455044400000,
+				"descriptionFile": "botsp.md"
+			}
+		],
+		"Blog Posts": [
+		]
+	}
+}
